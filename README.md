@@ -1,5 +1,15 @@
 # B2-GO-AA-UTILS
 
+## Get Started
+
+- Install the module:
+
+```bash
+go get github.com/b2network/b2-go-aa-utils
+```
+
+- Refer to [b2-account-infra](https://github.com/b2network/b2-account-infra) repo to collect deployed contract addresses
+
 ## Example
 
 ```go
